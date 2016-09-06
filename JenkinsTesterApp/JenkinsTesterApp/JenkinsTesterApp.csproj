@@ -48,12 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="bin\Debug\JenkinsTesterApp.exe.config" />
-    <None Include="bin\Debug\JenkinsTesterApp.vshost.exe.config" />
-    <None Include="bin\Debug\JenkinsTesterApp.vshost.exe.manifest" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Debug\JenkinsTesterApp.vshost.exe" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
