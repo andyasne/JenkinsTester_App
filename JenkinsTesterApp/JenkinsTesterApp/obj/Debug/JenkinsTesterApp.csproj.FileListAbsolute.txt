@@ -1,1 +1,6 @@
 C:\Users\Abyssinia\Source\Repos\JenkinsTester_App\JenkinsTesterApp\JenkinsTesterApp\bin\Debug\JenkinsTesterApp.exe.config
+C:\Users\Abyssinia\Source\Repos\JenkinsTester_App\JenkinsTesterApp\JenkinsTesterApp\bin\Debug\JenkinsTesterApp.exe
+C:\Users\Abyssinia\Source\Repos\JenkinsTester_App\JenkinsTesterApp\JenkinsTesterApp\bin\Debug\JenkinsTesterApp.pdb
+C:\Users\Abyssinia\Source\Repos\JenkinsTester_App\JenkinsTesterApp\JenkinsTesterApp\obj\Debug\JenkinsTesterApp.csprojResolveAssemblyReference.cache
+C:\Users\Abyssinia\Source\Repos\JenkinsTester_App\JenkinsTesterApp\JenkinsTesterApp\obj\Debug\JenkinsTesterApp.exe
+C:\Users\Abyssinia\Source\Repos\JenkinsTester_App\JenkinsTesterApp\JenkinsTesterApp\obj\Debug\JenkinsTesterApp.pdb
