@@ -48,7 +48,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\JenkinsTesterApp.exe.config" />
+    <None Include="bin\Debug\JenkinsTesterApp.vshost.exe.config" />
+    <None Include="bin\Debug\JenkinsTesterApp.vshost.exe.manifest" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\JenkinsTesterApp.vshost.exe" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
