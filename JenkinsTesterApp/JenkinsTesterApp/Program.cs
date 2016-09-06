@@ -13,6 +13,8 @@ namespace JenkinsTesterApp
             System.Console.Out.Write("This is a test app. Master Branch");
 
             var intest = System.Console.In.ReadLine();
+
+            //This is a test application.
         }
     }
 }
