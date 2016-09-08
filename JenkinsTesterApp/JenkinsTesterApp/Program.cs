@@ -10,7 +10,7 @@ namespace JenkinsTesterApp
     {
         static void Main(string[] args)
         {
-            System.Console.Out.Write("This is a test app. Master Branch_feature");
+            System.Console.Out.Write("This is a test app. Master Branch_fea");
 
             var intest = System.Console.In.ReadLine();
 
