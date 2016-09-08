@@ -10,7 +10,7 @@ namespace JenkinsTesterApp
     {
         static void Main(string[] args)
         {
-            System.Console.Out.Write("This is a test app.Development Branch:Hook checking!__");
+            System.Console.Out.Write("This is a test app.Development Branch:Hook checking!_");
 
             var intest = System.Console.In.ReadLine();
         }
